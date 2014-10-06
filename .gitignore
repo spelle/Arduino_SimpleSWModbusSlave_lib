@@ -26,3 +26,5 @@
 *.exe
 *.out
 *.app
+/Release/
+/Arduino_Uno_Rev3/
